@@ -1,0 +1,29 @@
+name: Azuria-SkayiZen
+main: fr.skayizen.azuria.Main
+version: 1
+author: SkayiZen#8019
+commands:
+  rtp:
+    aliases:
+      - randomtp
+
+  kit:
+    aliases:
+      - kits
+
+  spawn:
+    aliases:
+      - hub
+
+  cookie:
+
+  me:
+    aliases:
+      - commerce
+      - market
+
+  casino:
+
+
+
+
